@@ -20,6 +20,7 @@ The project is completely implemented in Python using Jupyter Notebook.
 
 ## 🗂️ Dataset Description
 
+**Source:** [Uber Dataset](https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset) (Kaggle)
 The dataset contains Uber ride records including:
 
 - Start and end datetime  
@@ -114,4 +115,31 @@ All generated plots are saved in the `images/` folder automatically.
 
 1. Open Jupyter Notebook  
 2. Run all cells in `uber_rides.ipynb`  
-3. Images will be generated automatically  
+3. Images will be generated automatically
+
+---
+
+## 🧾 Key Metrics Summary
+
+| Metric | Value |
+|--------|-------|
+| Total Rides | 1K+ |
+| Total Miles Travelled | 20K+ miles |
+| Average Trip Distance | ~7–10 miles |
+| Average Trip Duration | ~25 minutes |
+| Busiest Day | Friday |
+| Busiest Time of Day | Afternoon & Evening |
+| Most Common Purpose | Business (Meetings & Customer Visits) |
+| Longest Trips | Airport & Inter-city travel |
+
+---
+## 🔗 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/akhilesh-yadav88/
+- **Portfolio:** https://yaadavakhilesh.github.io/
+- **GitHub:** https://github.com/YaadavAkhilesh
+- **Email:** yadavakhil766@gmail.com
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
